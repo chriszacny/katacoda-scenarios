@@ -1,12 +1,12 @@
 {
-  "title": "F5CA Python 002 Class 2 - More Control Flow and Data Structures",
-  "description": "Lists",
+  "title": "F5CA Python 002 Class 2 - Strings and Data Structures",
+  "description": "Strings",
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
-      "text": "step1.md"
+      "title": "Strings",
+      "text": "strings1.md"
     },
     {
       "title": "Step 2 - Run Command",

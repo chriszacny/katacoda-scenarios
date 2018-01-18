@@ -1,1 +1,1 @@
-docker run -ti python:alpine /bin/sh
+docker pull python:alpine

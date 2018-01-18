@@ -1,0 +1,1 @@
+docker run -ti python:alpine /bin/sh

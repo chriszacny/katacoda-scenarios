@@ -13,6 +13,14 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "string1.py",
+          "target": "~/"
+        }
+      ]
     }
   },
   "environment": {

@@ -37,6 +37,6 @@
     "string1.py"
   ],
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "docker"
   }
 }

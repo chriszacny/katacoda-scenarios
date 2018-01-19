@@ -14,12 +14,9 @@
     "finish": {
       "text": "finish.md"
     },
-    "assets": { 
-      "host01": [{
-        "file": "*", 
-        "target": "/root"
-      }] 
-    }
+    "files": [
+      "string1.py"
+    ]
   },
   "environment": {
     "uilayout": "editor-terminal",

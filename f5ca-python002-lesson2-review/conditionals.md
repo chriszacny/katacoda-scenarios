@@ -12,5 +12,4 @@ if 1 == 1:
 else:
     print('Math is broken')
 
-print('Done.')
 ```

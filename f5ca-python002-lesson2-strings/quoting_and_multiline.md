@@ -13,7 +13,7 @@ Note: Single quotes are more commonly used. Try to be consistent in whatever cho
 Create a multiline string as such:
 
 ```python
-s = """ This is the first line
+s = """This is the first line
 This is the second line
 This is the third line"""
 

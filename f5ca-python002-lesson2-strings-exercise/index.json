@@ -14,13 +14,11 @@
     "finish": {
       "text": "finish.md"
     },
-    "assets": {
-      "client": [
-        {
-          "file": "string1.py",
-          "target": "~/"
-        }
-      ]
+    "assets": { 
+      "host01": [{
+        "file": "*", 
+        "target": "/root"
+      }] 
     }
   },
   "environment": {

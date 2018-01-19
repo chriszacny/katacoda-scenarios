@@ -1,0 +1,37 @@
+{
+  "title": "F5CA Python 002 Lesson 2 - Review",
+  "description": "Review of Lesson 1",
+  "difficulty": "beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [{
+      "title": "Python interpreter",
+      "text": "interpreter.md"
+    },
+    {
+      "title": "Variables and Types",
+      "text": "variables.md"
+    },
+    {
+      "title": "Conditionals",
+      "text": "conditionals.md"
+    },
+    {
+      "title": "Functions",
+      "text": "functions.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

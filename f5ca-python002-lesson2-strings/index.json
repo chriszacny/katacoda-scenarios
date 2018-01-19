@@ -1,0 +1,45 @@
+{
+  "title": "F5CA Python 002 Lesson 2 - Strings",
+  "description": "Strings Learning and Practicing",
+  "difficulty": "beginner",
+  "time": "15 minutes",
+  "details": {
+    "steps": [{
+      "title": "Strings Overview",
+      "text": "overview.md"
+    },
+    {
+      "title": "String Immutability",
+      "text": "immutability.md"
+    },
+    {
+      "title": "String Quoting and Multiline",
+      "text": "quoting_and_multiline.md"
+    },
+    {
+      "title": "String Functions",
+      "text": "string_functions.md"
+    },
+    {
+      "title": "String Slicing",
+      "text": "slicing.md"
+    },
+    {
+      "title": "Exercise",
+      "text": "exercise.md"
+    }],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

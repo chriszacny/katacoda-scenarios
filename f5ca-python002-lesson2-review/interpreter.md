@@ -1,4 +1,4 @@
-## Task - String Formatting
+## Task - Interpreter
 
 Start up the python intepreter.
 
@@ -8,6 +8,10 @@ Assign your name to a variable of type string:
 
 `my_name = 'Chris'`{{execute}}
 
-Print the variable you just created by doing:
+Print the variable you just created by using the **print()** function:
 
 `print(my_name)`{{execute}}
+
+Exit the python interpreter using the **exit()** function:
+
+`exit()`{{execute}}

@@ -1,6 +1,6 @@
 ## Task - Functions
 
-Start up the python intepreter.
+If needed, start up the python intepreter.
 
 `python`{{execute}}
 

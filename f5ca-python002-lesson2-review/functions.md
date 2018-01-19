@@ -6,20 +6,28 @@ Start up the python intepreter.
 
 Create the following function, and test it per the code below:
 
-`def testing():`{{execute}}
-`    print('test')`{{execute}}
-`testing()`{{execute}}
+```python
+def testing():
+    print('test')
+
+testing()
+```
 
 Try a function with arguments:
 
-`def testargs(arg1):`{{execute}}
-`    print(arg1)`{{execute}}
-`testargs()`{{execute}}
+```python
+def testargs(arg1):
+    print(arg1)
+
+testargs()
+```
 
 Function assignment:
 
-`def testfunc`{{execute}}
-`    print('test')`{{execute}}
-`my_func = testfunc`{{execute}}
-`my_func()`{{execute}}
+```python
+def testfunc
+    print('test')
 
+my_func = testfunc
+my_func()
+```

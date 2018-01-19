@@ -4,6 +4,7 @@ The following exercise was taken from [https://developers.google.com/edu/python/
 
 Read through the exercise in the string1.py file. Then, fill in the functions that are missing code.
 
-## Tips
+Run your code like this: 
+`python3 string1.py`{{execute}}
 
-* 
+When run, you'll see it test the various functions. Your goal is to change all of the 'X''s in the output to 'OK'.

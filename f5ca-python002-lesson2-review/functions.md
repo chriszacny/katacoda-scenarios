@@ -19,13 +19,13 @@ Try a function with arguments:
 def testargs(arg1):
     print(arg1)
 
-testargs()
+testargs('testing')
 ```
 
 Function assignment:
 
 ```python
-def testfunc
+def testfunc():
     print('test')
 
 my_func = testfunc

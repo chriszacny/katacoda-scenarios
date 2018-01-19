@@ -2,7 +2,7 @@
 
 If needed, start up the python intepreter.
 
-`python`{{execute}}
+`python3`{{execute}}
 
 Create the following function, and test it per the code below:
 

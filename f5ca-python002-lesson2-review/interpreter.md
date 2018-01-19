@@ -2,7 +2,7 @@
 
 Start up the python intepreter.
 
-`python`{{execute}}
+`python3`{{execute}}
 
 Assign your name to a variable of type string:
 

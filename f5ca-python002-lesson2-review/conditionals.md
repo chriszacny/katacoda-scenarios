@@ -2,7 +2,7 @@
 
 If needed, start up the python intepreter.
 
-`python`{{execute}}
+`python3`{{execute}}
 
 Create the following conditional check. Remember to indent by four spaces, and that Python does not use braces to denote scope:
 

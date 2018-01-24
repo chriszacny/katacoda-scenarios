@@ -1,0 +1,42 @@
+{
+    "title": "F5CA Python 002 Lesson 2 - Introduction to Sequences",
+    "description": "F5CA Python 002 Lesson 2 - Introduction to Sequences",
+    "difficulty": "beginner",
+    "time": "10 minutes",
+    "details": {
+      "steps": [{
+        "title": "Basic Lists",
+        "text": "basic_lists.md"
+      },
+      {
+        "title": "Lists as Data Structures",
+        "text": "lists_as_data_structures.md"
+      },
+      {
+        "title": "List Methods",
+        "text": "list_methods.md"
+      },
+      {
+        "title": "Loops",
+        "text": "loops.md"
+      },
+      {
+        "title": "List Comprehensions",
+        "text": "list_comprehensions.md"
+      }],
+      "intro": {
+        "text": "intro.md"
+      },
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "environment": {
+      "uilayout": "terminal",
+      "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
+  

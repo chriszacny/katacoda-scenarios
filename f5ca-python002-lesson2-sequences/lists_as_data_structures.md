@@ -22,7 +22,7 @@ my_queue.pop()
 
 The above approach is inefficient;  from a runtime perspective given that every element in the list needs to be shifted over by one every insert. A better approach is to use the deque from the collections module.
 
-```python
+```
 from collections import deque
 better_queue = deque([])
 better_queue.append("First in")

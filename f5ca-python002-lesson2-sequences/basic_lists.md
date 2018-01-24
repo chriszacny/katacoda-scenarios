@@ -1,5 +1,9 @@
 ## List syntax
 
+If needed, start up the python intepreter.
+
+`python3`{{execute}}
+
 Lists are straightforward to create in Python:
 
 ```python

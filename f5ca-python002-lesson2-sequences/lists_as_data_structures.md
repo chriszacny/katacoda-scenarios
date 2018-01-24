@@ -20,7 +20,7 @@ my_queue.insert(0, "Second in")
 my_queue.pop()
 ```
 
-The above approach is inneficient however from a runtime perspective given that every element in the list needs to be shifted over by one every insert. A better approach is to use the deque from the collections module:
+The above approach is inefficient;  from a runtime perspective given that every element in the list needs to be shifted over by one every insert. A better approach is to use the deque from the collections module.
 
 ```python
 from collections import deque

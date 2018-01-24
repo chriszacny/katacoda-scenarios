@@ -1,1 +1,0 @@
-Welcome back to F5CA Python 002. Today we're going to practice working with Python data structures; namely, strings, lists and dictionaries. We're also going to take a look at for loops to iterate over said structures. Let's get started!

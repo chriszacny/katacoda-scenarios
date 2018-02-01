@@ -9,6 +9,7 @@ Lists are straightforward to create in Python:
 ```python
 my_list = [] # creation of empty list
 another_list = [1,2,3]
+yet_another = list()
 ```
 
 Accessing list data is also simple; use [] notation, similar to Java / C++.

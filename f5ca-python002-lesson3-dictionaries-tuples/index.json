@@ -1,0 +1,42 @@
+{
+    "title": "F5CA Python 002 Lesson 2 - Dictionaries and Tuples",
+    "description": "Dictionaries and Tuples",
+    "difficulty": "beginner",
+    "time": "15 minutes",
+    "details": {
+      "steps": [{
+        "title": "Tuples",
+        "text": "tuples.md"
+      },
+      {
+        "title": "Named Tuples",
+        "text": "named_tuples.md"
+      },
+      {
+        "title": "Dictionaries",
+        "text": "basic_dicts.md"
+      },
+      {
+        "title": "More Dictionaries",
+        "text": "more_dicts.md"
+      },
+      {
+        "title": "Return to Sorting",
+        "text": "more_sorting.md"
+      }],
+      "intro": {
+        "text": "intro.md"
+      },
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "environment": {
+      "uilayout": "terminal",
+      "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
+  

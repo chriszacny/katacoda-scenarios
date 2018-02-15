@@ -23,7 +23,6 @@ INSERT INTO films VALUES
     ('UA502', 'Bananas', 105, '1971-07-13', 'Comedy', '82 minutes');
 SELECT * FROM films;
 \q
-exit
 ```
 
 ```python

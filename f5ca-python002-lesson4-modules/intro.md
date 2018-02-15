@@ -1,0 +1,1 @@
+This module will be focused on the pip package manager, in addition to some useful third-party Python modules to start looking at.

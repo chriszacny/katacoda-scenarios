@@ -1,0 +1,38 @@
+{
+    "title": "F5CA Python 002 Lesson 4 - pip and Some Useful Modules",
+    "description": "F5CA Python 002 Lesson 4 - pip and Some Useful Modules",
+    "difficulty": "beginner",
+    "time": "15 minutes",
+    "details": {
+      "steps": [{
+        "title": "Practicing with pip",
+        "text": "pip.md"
+      },
+      {
+        "title": "requests",
+        "text": "requests.md"
+      },
+      {
+        "title": "PyGreSQL",
+        "text": "pygresql.md"
+      },
+      {
+        "title": "Files",
+        "text": "files.md"
+      }],
+      "intro": {
+        "text": "intro.md"
+      },
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "environment": {
+      "uilayout": "terminal",
+      "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
+  

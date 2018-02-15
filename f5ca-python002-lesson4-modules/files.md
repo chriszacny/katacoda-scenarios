@@ -8,6 +8,7 @@ cat tempfile
 ```
 
 ```python
+python3
 my_file = open('tempfile', 'r')
 for line in my_file:
     print(line)

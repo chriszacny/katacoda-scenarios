@@ -2,7 +2,7 @@
 Requests is a wrapper around Python's urllib libraries to make http web requests to endpoints. In native Python, it is a bit clunky, and requests aims to fix that.
 
 ```bash
-Let's install requests.
+Let's install requests. Note that if you already installed Flask, requests will have been installed as a pre-requisite for that package.
 pip3 install requests
 ```
 
@@ -19,4 +19,4 @@ print(response.text)
 ``` 
 
 ## Beautiful Soup
-You can further parse the above output using the Beautiful Soup Python module; it is excellent for manipulating DOMs.
+You can further parse the above output using the Beautiful Soup Python package; it is excellent for manipulating DOMs.

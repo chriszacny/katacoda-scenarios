@@ -29,7 +29,7 @@ pip3 freeze
 
 Notice how it installed python-dateutil version 2.6.0, which is less than the latest version on PyPi, 2.6.1.
 
-A reminder how to use modules (well, you'll need to read their documentation to understand functionality, but here is an example of this particular one):
+A reminder how to use packages (well, you'll need to read their documentation to understand functionality, but here is an example of this particular one):
 
 ```python
 python3
